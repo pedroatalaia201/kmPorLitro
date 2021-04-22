@@ -1,0 +1,16 @@
+C:\Pedro\avulsoC#\CarroGasolina\bin\Debug\net5.0\CarroGasolina.exe
+C:\Pedro\avulsoC#\CarroGasolina\bin\Debug\net5.0\CarroGasolina.deps.json
+C:\Pedro\avulsoC#\CarroGasolina\bin\Debug\net5.0\CarroGasolina.runtimeconfig.json
+C:\Pedro\avulsoC#\CarroGasolina\bin\Debug\net5.0\CarroGasolina.runtimeconfig.dev.json
+C:\Pedro\avulsoC#\CarroGasolina\bin\Debug\net5.0\CarroGasolina.dll
+C:\Pedro\avulsoC#\CarroGasolina\bin\Debug\net5.0\ref\CarroGasolina.dll
+C:\Pedro\avulsoC#\CarroGasolina\bin\Debug\net5.0\CarroGasolina.pdb
+C:\Pedro\avulsoC#\CarroGasolina\obj\Debug\net5.0\CarroGasolina.csprojAssemblyReference.cache
+C:\Pedro\avulsoC#\CarroGasolina\obj\Debug\net5.0\CarroGasolina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pedro\avulsoC#\CarroGasolina\obj\Debug\net5.0\CarroGasolina.AssemblyInfoInputs.cache
+C:\Pedro\avulsoC#\CarroGasolina\obj\Debug\net5.0\CarroGasolina.AssemblyInfo.cs
+C:\Pedro\avulsoC#\CarroGasolina\obj\Debug\net5.0\CarroGasolina.csproj.CoreCompileInputs.cache
+C:\Pedro\avulsoC#\CarroGasolina\obj\Debug\net5.0\CarroGasolina.dll
+C:\Pedro\avulsoC#\CarroGasolina\obj\Debug\net5.0\ref\CarroGasolina.dll
+C:\Pedro\avulsoC#\CarroGasolina\obj\Debug\net5.0\CarroGasolina.pdb
+C:\Pedro\avulsoC#\CarroGasolina\obj\Debug\net5.0\CarroGasolina.genruntimeconfig.cache
